@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/vcbot"><img src="https://graph.org/file/918101d0ad6b1207e6201.png" height="270" width="480" alt="AdityaPlayer"/></a>
+<a href="https://github.com/AdityaHalder/vcbot"><img src="https://files.catbox.moe/ny3eeg.png" height="270" width="480" alt="AdityaPlayer"/></a>
 </p>
 
 <p align="center">
