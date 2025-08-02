@@ -310,8 +310,8 @@ def chat_admins_only(mystic):
 
 
 async def get_stream_info(query, streamtype):
-    api_url = "http://46.250.243.87:1470/youtube"
-    api_key = "1a873582a7c83342f961cc0a177b2b26"
+    api_url = "https://xyz.spotifytech.shop"
+    api_key = "8c6776dcdb413d556d031eb23a761b92"
     video = True if streamtype.lower() == "video" else False
     params = {"query": query, "video": video, "api_key": api_key}
 
