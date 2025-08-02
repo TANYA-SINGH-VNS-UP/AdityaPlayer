@@ -311,7 +311,7 @@ def chat_admins_only(mystic):
 
 async def get_stream_info(query, streamtype):
     api_url = "https://xyz.spotifytech.shop"
-    api_key = "8c6776dcdb413d556d031eb23a761b92"
+    api_key = "SANATANI_TECH"
     video = True if streamtype.lower() == "video" else False
     params = {"query": query, "video": video, "api_key": api_key}
 
@@ -745,7 +745,7 @@ Stream Audio Or Video❗...
 ≽ Audio: `/play yalgaar`
 ≽ Video: `/vplay yalgaar`**"""
             )
-        aux = await client.send_message(chat_id, "**🔁 Processing ✨...**")
+        aux = await client.send_message(chat_id, "**Radhe Radhe...**")
         query = message.text.split(None, 1)[1]
         streamtype = "Audio" if not message.command[0].startswith("v") else "Video"
         info = await get_stream_info(query, streamtype)
